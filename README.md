@@ -95,6 +95,12 @@ I build practical projects while strengthening my skills in modern web developme
 </p>
 
 
+
+### 🔗 Repository Stats & Streak:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billalhossain404&" alt="billalhossain404" /></p>
+
+
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Billal_Hossain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billalhossainexe/)
