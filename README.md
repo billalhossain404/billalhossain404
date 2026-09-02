@@ -95,11 +95,10 @@ I build practical projects while strengthening my skills in modern web developme
 </p>
 
 
+<h2>🔗 Repository Stats & Streak</h2>
+<hr>
 <div align="center">
-### 🔗 Repository Stats & Streak:
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=billalhossain404&" alt="billalhossain404" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=billalhossain404" alt="GitHub Streak" />
 </div>
 
 
