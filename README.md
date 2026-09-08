@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=billalhossainexe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=billalhossain404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 # 👋 Hi, I'm Billal Hossain
@@ -89,7 +89,7 @@ I build practical projects while strengthening my skills in modern web developme
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossainexe&layout=compact&theme=midnight&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossain404&layout=compact&theme=midnight&langs_count=6"
     alt="Most Used Languages"
   />
 </p>
@@ -105,11 +105,11 @@ I build practical projects while strengthening my skills in modern web developme
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Billal_Hossain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billalhossainexe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=googlechrome&logoColor=white)](https://billalhossainexe.github.io/my-portfolio/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-billalhossainexe-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/billalhossainexe/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-billalhossainexe-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/billalhossainexe)
-[![HackerRank](https://img.shields.io/badge/HackerRank-billalhossainexe-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/billalhossainexe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Billal_Hossain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billalhossain404/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=googlechrome&logoColor=white)](https://billalhossain404.github.io/my-portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-billalhossain404-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/billalhossain404/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-billalhossain404-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/billalhossain404)
+[![HackerRank](https://img.shields.io/badge/HackerRank-billalhossain404-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/billalhossain404)
 [![Email](https://img.shields.io/badge/Email-engr.billalhossainn@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:engr.billalhossainn@gmail.com)
 
 ---
