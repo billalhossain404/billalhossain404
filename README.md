@@ -89,7 +89,7 @@ I build practical projects while strengthening my skills in modern web developme
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/langs?username=billalhossainexe&amp;theme=midnight&amp;layout=stacked&amp;max_langs=6&amp;custom_title=Most%20Used%20Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossainexe&layout=compact&theme=midnight&langs_count=6"
     alt="Most Used Languages"
   />
 </p>
