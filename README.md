@@ -1,117 +1,124 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=billalhossain404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-# 👋 Hi, I'm Billal Hossain
-
-**CS Student learning Full-Stack Web Development | MERN Stack • .NET Enterprise Development**
-
-I build practical projects while strengthening my skills in modern web development, enterprise application development, and problem-solving.
-
-- 🎓 Computer Science undergraduate from Bangladesh
-- 💻 Working with JavaScript, TypeScript, React, Node.js, MongoDB, C++, C#, and PHP
-- 🌱 Exploring full-stack development across the MERN and .NET ecosystems
-- 🎯 Preparing for internships, software development roles, and freelance opportunities
-
----
-
-## 💻 Tech Stack
-
-<!-- Programming Languages -->
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=FFFFFF)
-
-<!-- Frontend Technologies -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
-
-
-<!-- Backend Technologies -->
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
-![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
-![API Integration](https://img.shields.io/badge/API_INTEGRATION-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF)
-![Modular Pattern](https://img.shields.io/badge/MODULAR_PATTERN-4A154B?style=for-the-badge&logoColor=FFFFFF)
-
-<!-- Database Technologies -->
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-![Mongoose](https://img.shields.io/badge/MONGOOSE-880000?style=for-the-badge&logo=mongoose&logoColor=FFFFFF)
-![ODM](https://img.shields.io/badge/ODM-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-
-
-<!-- Authentication and Security -->
-![BetterAuth](https://img.shields.io/badge/BETTER_AUTH-000000?style=for-the-badge&logoColor=FFFFFF)
-![Authentication](https://img.shields.io/badge/AUTHENTICATION-EB5424?style=for-the-badge&logo=auth0&logoColor=FFFFFF)
-![Role Based Access Control](https://img.shields.io/badge/ROLE_BASED_ACCESS_CONTROL-6D28D9?style=for-the-badge&logoColor=FFFFFF)
-![Web Security](https://img.shields.io/badge/WEB_SECURITY-00897B?style=for-the-badge&logo=securityscorecard&logoColor=FFFFFF)
-
-<!-- Payment and Testing -->
-![Stripe](https://img.shields.io/badge/STRIPE-635BFF?style=for-the-badge&logo=stripe&logoColor=FFFFFF)
-![SSLCommerz](https://img.shields.io/badge/SSLCOMMERZ-E31837?style=for-the-badge&logoColor=FFFFFF)
-![Testing](https://img.shields.io/badge/TESTING-C21325?style=for-the-badge&logo=jest&logoColor=FFFFFF)
-
-<!-- Core Concepts -->
-![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logoColor=FFFFFF)
-![ES6](https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Problem Solving](https://img.shields.io/badge/PROBLEM_SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000)
-![DOM](https://img.shields.io/badge/DOM-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![BOM](https://img.shields.io/badge/BOM-1572B6?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)
-
-<!-- Tools and Platforms -->
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Building scalable full-stack applications with the **MERN stack** — MongoDB, Express.js, React, and Node.js
-- 🌱 Expanding my expertise in enterprise application development using **C#, ASP.NET Core, and RESTful APIs**
-- 💡 Strengthening **data structures, algorithms, OOP, and clean-code practices** through consistent problem-solving
-- 🎯 Pursuing **full-stack development opportunities**, both local and remote, across the JavaScript and .NET ecosystems
-
----
-
-<h2 align="left">🧑‍💻 Most Used Languages</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossain404&layout=compact&theme=midnight&langs_count=6"
-    alt="Most Used Languages"
-  />
-</p>
-
-
-<h2>🔗 Repository Stats & Streak</h2>
-<hr>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=billalhossain404" alt="GitHub Streak" />
+
+  <img src="assets/profile-banner.png" alt="Billal Hossain — Full-Stack Web Development, MERN and .NET" width="100%" />
+
+  <br />
+
+  <h1>Hi, I'm Billal Hossain 👋</h1>
+  <h3>Computer Science Undergraduate | Aspiring Full-Stack Software Developer</h3>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=billalhossain404&amp;label=Profile%20Views&amp;color=0e7490&amp;style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0b7285?style=flat&amp;logo=googlemaps&amp;logoColor=white" alt="Dhaka, Bangladesh" />
+    <a href="mailto:engr.billalhossainn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email Billal" /></a>
+  </p>
+
+  <p>
+    <a href="https://billalhossain404.github.io/my-portfolio/">Portfolio</a> •
+    <a href="https://www.linkedin.com/in/billalhossainexe/">LinkedIn</a> •
+    <a href="mailto:engr.billalhossainn@gmail.com">Email</a>
+  </p>
 </div>
 
+---
 
+## 👨‍💻 About Me
 
-## 🌐 Socials
+I'm a Computer Science undergraduate from Bangladesh with a strong interest in **full-stack web development**, **MERN technologies**, and **C#/.NET application development**. I enjoy turning ideas into practical software projects while continuously improving my problem-solving, software design, and development skills.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Billal_Hossain-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billalhossain404/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=googlechrome&logoColor=white)](https://billalhossain404.github.io/my-portfolio/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-billalhossain404-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/billalhossain404/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-billalhossain404-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/billalhossain404)
-[![HackerRank](https://img.shields.io/badge/HackerRank-billalhossain404-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/billalhossain404)
-[![Email](https://img.shields.io/badge/Email-engr.billalhossainn@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:engr.billalhossainn@gmail.com)
+I am currently building my portfolio and preparing for **internships, junior developer roles, and collaborative software projects**.
+
+## 🚀 What I'm Working On
+
+- 🔭 Building and improving projects with **React, Next.js, Node.js, and MongoDB**.
+- 🌱 Learning **C#, ASP.NET Core, REST APIs, and enterprise application development**.
+- 🧩 Practicing **data structures, algorithms, OOP, and clean-code principles**.
+- 🤝 Exploring collaborative projects and software development opportunities.
 
 ---
 
+## 🛠️ Skills & Technologies
 
+<details open>
+  <summary><strong>Programming Languages</strong></summary>
+  <br />
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php&amp;perline=8" alt="C, C++, C sharp, Java, Python, JavaScript, TypeScript, PHP" />
+  </p>
+</details>
+
+<details open>
+  <summary><strong>Frontend</strong></summary>
+  <br />
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&amp;perline=8" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
+  </p>
+</details>
+
+<details open>
+  <summary><strong>Backend & Databases</strong></summary>
+  <br />
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql&amp;perline=8" alt="Node.js, Express.js, .NET, MongoDB, MySQL" />
+  </p>
+</details>
+
+<details open>
+  <summary><strong>Development Tools</strong></summary>
+  <br />
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&amp;perline=8" alt="Git, GitHub, VS Code, Visual Studio, Postman" />
+  </p>
+</details>
+
+**Also exploring:** Better Auth • REST API design • Testing • Role-based access control • SQL • Software architecture
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 [CampusConnect](https://github.com/billalhossain404/capmusconnect)
+
+A campus events and club-management web application with student, organizer, and administrator workflows. Includes authentication, event approvals, registration, attendance, and reporting.
+
+**Tech:** PHP 8+ • Custom MVC • MySQL/MariaDB • JavaScript • AJAX • HTML/CSS  
+**Source:** [GitHub Repository](https://github.com/billalhossain404/capmusconnect)  
+**Live Demo:** Not publicly deployed
+
+### 🏥 [Smart-Care](https://github.com/billalhossain404/Smart-Care)
+
+A C# hospital-management application project featuring dedicated interface screens for different staff roles.
+
+**Tech:** C# • .NET / Visual Studio  
+**Source:** [GitHub Repository](https://github.com/billalhossain404/Smart-Care)  
+**Live Demo:** Desktop project — no public web demo
+
+> 📍 Explore the pinned repositories below for the projects I want to highlight.
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=billalhossain404&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;rank_icon=github" alt="GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossain404&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;langs_count=8" alt="Most used repository languages" height="170" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=billalhossain404&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+<sub>Language stats reflect public repository code, not proficiency levels. Stats are provided by third-party services and may occasionally be unavailable.</sub>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/billalhossainexe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://billalhossain404.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/billalhossain404/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/billalhossain404"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.hackerrank.com/profile/billalhossain404"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" alt="HackerRank" /></a>
+  <a href="mailto:engr.billalhossainn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</div>
+
+<p align="center"><em>Building with curiosity. Learning with consistency.</em></p>
