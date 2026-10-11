@@ -8,7 +8,7 @@
   <h3>Computer Science Undergraduate | Aspiring Full-Stack Software Developer</h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=billalhossain404&label=Profile%20Views&color=0e7490&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=billalhossain404&style=flat-square&color=0e7490" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0b7285?style=flat&logo=googlemaps&logoColor=white" alt="Dhaka, Bangladesh" />
     <a href="mailto:engr.billalhossainn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat&logo=gmail&logoColor=white" alt="Email Billal" /></a>
   </p>
