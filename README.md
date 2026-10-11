@@ -8,9 +8,9 @@
   <h3>Computer Science Undergraduate | Aspiring Full-Stack Software Developer</h3>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=billalhossain404&amp;label=Profile%20Views&amp;color=0e7490&amp;style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0b7285?style=flat&amp;logo=googlemaps&amp;logoColor=white" alt="Dhaka, Bangladesh" />
-    <a href="mailto:engr.billalhossainn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email Billal" /></a>
+    <img src="https://komarev.com/ghpvc/?username=billalhossain404&label=Profile%20Views&color=0e7490&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0b7285?style=flat&logo=googlemaps&logoColor=white" alt="Dhaka, Bangladesh" />
+    <a href="mailto:engr.billalhossainn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-d14836?style=flat&logo=gmail&logoColor=white" alt="Email Billal" /></a>
   </p>
 
   <p>
@@ -43,7 +43,7 @@ I am currently building my portfolio and preparing for **internships, junior dev
   <summary><strong>Programming Languages</strong></summary>
   <br />
   <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php&amp;perline=8" alt="C, C++, C sharp, Java, Python, JavaScript, TypeScript, PHP" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php&perline=8" alt="C, C++, C sharp, Java, Python, JavaScript, TypeScript, PHP" />
   </p>
 </details>
 
@@ -51,7 +51,7 @@ I am currently building my portfolio and preparing for **internships, junior dev
   <summary><strong>Frontend</strong></summary>
   <br />
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&amp;perline=8" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=8" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
   </p>
 </details>
 
@@ -59,7 +59,7 @@ I am currently building my portfolio and preparing for **internships, junior dev
   <summary><strong>Backend & Databases</strong></summary>
   <br />
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql&amp;perline=8" alt="Node.js, Express.js, .NET, MongoDB, MySQL" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql&perline=8" alt="Node.js, Express.js, .NET, MongoDB, MySQL" />
   </p>
 </details>
 
@@ -67,7 +67,7 @@ I am currently building my portfolio and preparing for **internships, junior dev
   <summary><strong>Development Tools</strong></summary>
   <br />
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&amp;perline=8" alt="Git, GitHub, VS Code, Visual Studio, Postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&perline=8" alt="Git, GitHub, VS Code, Visual Studio, Postman" />
   </p>
 </details>
 
@@ -100,10 +100,10 @@ A C# hospital-management application project featuring dedicated interface scree
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=billalhossain404&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;rank_icon=github" alt="GitHub statistics" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossain404&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;langs_count=8" alt="Most used repository languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=billalhossain404&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossain404&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used repository languages" height="170" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=billalhossain404&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=billalhossain404&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 <sub>Language stats reflect public repository code, not proficiency levels. Stats are provided by third-party services and may occasionally be unavailable.</sub>
@@ -113,12 +113,12 @@ A C# hospital-management application project featuring dedicated interface scree
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/billalhossainexe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://billalhossain404.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://leetcode.com/u/billalhossain404/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/billalhossain404"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.hackerrank.com/profile/billalhossain404"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" alt="HackerRank" /></a>
-  <a href="mailto:engr.billalhossainn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/billalhossainexe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://billalhossain404.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/billalhossain404/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/billalhossain404"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.hackerrank.com/profile/billalhossain404"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="mailto:engr.billalhossainn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <p align="center"><em>Building with curiosity. Learning with consistency.</em></p>
